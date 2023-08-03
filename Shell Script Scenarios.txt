@@ -1,5 +1,5 @@
    **************************
-SHELL Script Scenarios   
+GitHub Training Period / Shell Script Scenarios
 **************************
 
 1. Create 10 directories with for loop.
