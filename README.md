@@ -1,0 +1,2 @@
+# trainingAWS
+study purpose
