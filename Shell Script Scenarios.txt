@@ -1,0 +1,15 @@
+   **************************
+SHELL Script Scenarios   
+**************************
+
+1. Create 10 directories with for loop.
+2. create 5 directoty with name as file1, file2...file5 and 5 more directory as dir1, dir2....dir5. Delete the file1,file2...file5 only (use loop)
+3. Create 5 files and input some 5 line data into the file. Finally print the 3rd line of each file.
+4. Create 5 files and input some 5 line data into the file. Do find and replace
+5. run ls -la command and extract the last column and print each name of the column with echo command with some string.
+6. check the memory usage status of your server and print the free/available column in human readable format.
+7. check the disc free status and print the first and last column in file (if use percentage is greater than 50%)
+8. collect input while running script and do find & replace in file with input data, print the result.
+9. input file name and extention like (.txt, .json, .yml..etc). Based on the input it should create 5 file like file1.txt...file5.txt (or) file.json...file5.json (or) file1....file5.yml depends upon your input.
+
+10 create 5 file with different number of lines manually. create script and get the file name as input while running the script, count the number of lines and characters present in the file and print it.
